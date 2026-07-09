@@ -6,7 +6,7 @@ Esses filtros ajudam a **organizar e segmentar informações**, facilitando busc
 
 # criação de filtro
 
-![Tela de Login](../img/estrategia/create.png)
+![Criação de filtros](../img/estrategia/filtros/create.png)
 
 ### 🏷️ Nome do Filtro
 
@@ -73,7 +73,7 @@ Esses filtros ajudam a **organizar e segmentar informações**, facilitando busc
 
 # Listagem de filtros
 
-![Tela de Login](../img/estrategia/listagem.png)
+![listagem filtros](../img/estrategia/filtros/listagem.png)
 
 A tela **Listagem de Filtros** permite consultar e gerenciar todos os filtros cadastrados no sistema. A pesquisa pode ser realizada pelo nome do filtro, usuário, grupo, tipo de filtro, cliente e carteira, facilitando a localização de filtros específicos. 
 
@@ -109,7 +109,7 @@ Remove todos os filtros aplicados e restaura a listagem completa.
 
 # Colunas da listagem
 
-![Tela de Login](../img/estrategia/coluna-listagem.png)
+![Coluna de filtros](../img/estrategia/filtros/coluna-listagem.png)
 
 - **Nome do Filtro**: Nome do filtro cadastrado.
 - **Quantidade de Contratos**: Quantidade de contratos retornados pelo filtro.
@@ -123,7 +123,7 @@ As colunas que possuem o ícone de ordenação permitem classificar os registros
 
 # **Ações Disponíveis**
 
-![Tela de Login](../img/estrategia/acao.png)
+![ações de filtros](../img/estrategia/filtros/acao.png)
 
 ### ✏️ Edição do filtro
 

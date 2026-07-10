@@ -13,16 +13,14 @@ O sistema disponibiliza ferramentas que auxiliam na organização das carteiras,
 - 📊 Acompanhamento do processamento de filtros e importações.
 
 🔐 Autenticação
-
-Login
+    Login
 
 🎯 Estratégia
+    Filtros
+    Fila
+    Campanhas
+    Acionamentos em Massa
 
-Filtros (Estratégia)
-
-Fila(Estratégia)
-
-**Acionamentos em Massa**
 
 Campanhas
 

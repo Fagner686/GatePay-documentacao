@@ -16,22 +16,21 @@ O sistema disponibiliza ferramentas que auxiliam na organização das carteiras,
     Login
 
 🎯 Estratégia
-    Filtros
     Fila
+    Filtros
     Campanhas
     Acionamentos em Massa
 
-
-Campanhas
-
-📥 **Importações**
-
-Importações
+📥 Importações
 
 🎧 Cobrança
 
-Cobrança
-
 ⚙️ Configuração
+    Acionamentos
+    Cliente
+    Carteira
+    Grupo & Acessos
+    Usuário
 
-Acionamentos
+📊 Relatórios
+    Integrações

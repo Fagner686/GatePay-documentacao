@@ -32,6 +32,7 @@ O sistema disponibiliza ferramentas que auxiliam na organização das carteiras,
     Grupo & Acessos
     Usuário
     Layout
+    Localizadores
 
 📊 Relatórios
     Integrações

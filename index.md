@@ -1,38 +1,52 @@
-## 📖 Sobre o Sistema
+# 📘 Documentação do GatePay
 
-O **GatePay** é uma plataforma desenvolvida para apoiar as operações de recuperação de crédito, permitindo o gerenciamento de contratos, importação de dados, criação de estratégias de cobrança e execução de operações em massa.
+Bem-vindo à documentação do **GatePay**. Esta página é o ponto de entrada para entender a aplicação, seus módulos principais e por onde começar a navegar.
 
-O sistema disponibiliza ferramentas que auxiliam na organização das carteiras, processamento de grandes volumes de informações e acompanhamento das atividades realizadas pelos usuários.
+O GatePay é uma plataforma voltada para o apoio às operações de recuperação de crédito, com recursos para gestão de contratos, importação de dados, definição de estratégias de cobrança e execução de ações em massa.
 
-## 🎯 Principais Funcionalidades
+## 🎯 O que você encontra aqui
 
-- 🔐 Controle de acesso ao sistema.
-- 🎯 Criação e gerenciamento de estratégias de cobrança.
-- 📥 Importação de arquivos e processamento de dados.
-- ⚡ Execução de acionamentos em massa.
-- 📊 Acompanhamento do processamento de filtros e importações.
+Esta documentação foi organizada para ajudar usuários a localizar rapidamente informações sobre os principais processos da aplicação, desde o acesso até a configuração e o acompanhamento das operações.
 
-🔐 Autenticação
-    Login
+## 🚀 Como começar
 
-🎯 Módulo de Estratégia temos
-    Fila,
-    Filtros,
-    Campanhas e 
-    Acionamentos em Massa
+Recomendamos seguir esta ordem para uma primeira leitura:
 
-📥 Importações
+1. **Autenticação** — entenda como acessar o sistema.
+2. **Estratégia** — conheça os recursos para organizar e executar ações de cobrança.
+3. **Importações e Cobrança** — veja como os dados são processados e as operações são executadas.
+4. **Configuração** — explore cadastros e parâmetros do sistema.
+5. **Relatórios** — acompanhe os resultados e integrações.
 
-🎧 Cobrança
+## 🧩 Módulos principais
 
-⚙️ Módulo de Configuração temos
-    Acionamentos,
-    Cliente,
-    Carteira,
-    Grupo & Acessos,
-    Usuário,
-    Layout e
-    Localizadores
+### 🔐 Autenticação
+- [Login](Autenticação/Login.md)
 
-📊 Relatórios
-    Integrações
+### 🎯 Estratégia
+- [Fila](Estratégia/Fila.md)
+- [Filtros](Estratégia/Filtros.md)
+- [Campanhas](Estratégia/Campanhas.md)
+- [Acionamentos em Massa](Estratégia/AcionamentosMassa.md)
+
+### 📥 Importações
+- [Importações](Importacoes/importacoes.md)
+
+### 🎧 Cobrança
+- [Cobrança](Cobranca/Cobranca.md)
+
+### ⚙️ Configuração
+- [Acionamentos](Configuração/Acionamento.md)
+- [Clientes](Configuração/Clientes.md)
+- [Carteiras](Configuração/Carteiras.md)
+- [Grupo de Acessos](Configuração/Grupo-Acessos.md)
+- [Layouts](Configuração/Layouts.md)
+- [Localizadores](Configuração/Localizadores.md)
+- [Metas](Configuração/Metas.md)
+
+### 📊 Relatórios
+- [Integrações](Relatórios/Integracoes.md)
+
+## 💡 Dica
+
+Para quem está começando, o melhor ponto de partida é a seção de autenticação e, em seguida, o módulo de estratégia, que reúne os fluxos mais utilizados no dia a dia.

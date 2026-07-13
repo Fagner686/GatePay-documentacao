@@ -109,7 +109,7 @@ Remove todos os filtros aplicados e restaura a listagem completa.
 
 # Colunas da listagem
 
-![Coluna de filtros](../img/estrategia/filtros/coluna-listagem.png)
+![Coluna de filtros](../img/estrategia/filtros/listagem1.png)
 
 - **Nome do Filtro**: Nome do filtro cadastrado.
 - **Quantidade de Contratos**: Quantidade de contratos retornados pelo filtro.

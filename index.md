@@ -15,23 +15,23 @@ O sistema disponibiliza ferramentas que auxiliam na organização das carteiras,
 🔐 Autenticação
     Login
 
-🎯 Estratégia
-    Fila
-    Filtros
-    Campanhas
+🎯 Módulo de Estratégia temos
+    Fila,
+    Filtros,
+    Campanhas e 
     Acionamentos em Massa
 
 📥 Importações
 
 🎧 Cobrança
 
-⚙️ Configuração
-    Acionamentos
-    Cliente
-    Carteira
-    Grupo & Acessos
-    Usuário
-    Layout
+⚙️ Módulo de Configuração temos
+    Acionamentos,
+    Cliente,
+    Carteira,
+    Grupo & Acessos,
+    Usuário,
+    Layout e
     Localizadores
 
 📊 Relatórios

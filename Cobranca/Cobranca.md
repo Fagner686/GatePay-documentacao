@@ -100,7 +100,7 @@ Indica que o contrato está inativo e não pode ser tratado normalmente durante 
 
 # 📄 Contratos e Campanhas
 
-![Contratos-Campanhas](../img/cobranca/contratos-campanhas.png)
+![Contratos-Campanhas](../img/cobranca/contratos-campanhas1.png)
 
 Esta seção apresenta os contratos e as campanhas vinculadas ao cliente selecionado, permitindo que o operador consulte informações importantes para o atendimento e identifique oportunidades de negociação.
 
@@ -122,7 +122,7 @@ A listagem de contratos exibe todos os contratos associados ao cliente, juntamen
 
 O ícone em formato de caminhão permite consultar as informações da garantia vinculada ao contrato.
 
-![Contratos-Campanhas](../img/cobranca/contratos-campanhas.png)
+![Contratos-Campanhas](../img/cobranca/contratos-campanhas2.png)
 
 Ao selecioná-lo, o sistema abre uma janela com os dados do veículo utilizado como garantia da operação.
 
@@ -153,6 +153,11 @@ As informações disponíveis permitem ao operador identificar quais campanhas e
 - 💰 **Valor:** Valor relacionado à campanha.
 - 📅 **Expiração:** Data de encerramento da campanha.
 
+## ⚙️ Ações Disponíveis
+![Contratos-Campanhas](../img/cobranca/alterarValorCobranca.png)
+
+- **💲 Alterar valor da campanha**: Permite atualizar o valor da campanha especificamente para o contrato selecionado. Ao acionar o ícone de cifrão, o sistema abre uma janela para informar o novo valor do contrato na campanha e salvar a alteração.
+
 ### 💡 Observação
 
 Quando um cliente possui mais de um contrato, o operador pode alternar entre eles para consultar suas informações e verificar as campanhas vinculadas antes de iniciar a negociação.
@@ -163,7 +168,7 @@ Esta seção apresenta todos os telefones vinculados ao devedor, permitindo ao o
 
 Além da consulta, o operador pode cadastrar novos telefones, visualizar todos os números disponíveis e registrar informações que auxiliem os próximos atendimentos.
 
-![Contratos-Campanhas](../img/cobranca/telefones.png)
+![Contratos-Campanhas](../img/cobranca/telefones1.png)
 
 ## 📋 Informações Exibidas
 
@@ -179,12 +184,11 @@ Exibe o número de telefone cadastrado para contato com o devedor.
 
 Indica se o número possui WhatsApp cadastrado.
 
-### 🔥 HOT
+### 🔥 Telefone HOT
 
-Identifica telefones classificados como **HOT**, ou seja, números considerados prioritários ou de maior relevância para contato.
+Identifica telefones pertencentes ao **devedor**, destacando números considerados **HOT** para contato.
 
-> **Observação:** *Seria interessante confirmar com a equipe exatamente como um número recebe essa classificação.*
-> 
+Quando o telefone é classificado como **HOT**, o indicador é apresentado com **fundo vermelho**, facilitando sua identificação na lista de telefones.
 
 ### 📌 Status
 
@@ -230,7 +234,7 @@ Permite alterar as informações do telefone selecionado, como observações ou 
 
 # 📍 Endereços
 
-![endereco](../img/cobranca/enderecos.png)
+![endereco](../img/cobranca/enderecos1.png)
 
 Esta seção apresenta os endereços vinculados ao devedor, permitindo ao operador consultar informações de localização e, quando necessário, cadastrar ou atualizar novos endereços.
 
@@ -256,10 +260,8 @@ Apresenta a cidade e o estado (UF) do endereço.
 
 ### 🔥 HOT
 
-Identifica endereços classificados como **HOT**, indicando que possuem maior relevância para as atividades de cobrança.
-
-<!-- > **Observação:** A classificação **HOT** segue os critérios definidos pelo escritório para priorização das informações durante o atendimento.
-> -->
+Identifica endereços pertencentes ao **devedor**, classificando-os como **HOT**.
+Quando o endereço é classificado como **HOT**, o indicador é apresentado com **fundo vermelho**, facilitando sua identificação na lista de endereços.
 
 ## ⚙️ Ações Disponíveis
 
@@ -533,22 +535,22 @@ Permite iniciar o processo de criação de um novo acordo para o contrato seleci
 
 ### 📋 Histórico do Acordo
 
-Permite consultar o histórico de eventos relacionados ao acordo, registrando todas as alterações e operações realizadas durante sua criação e gerenciamento.
+Permite consultar os eventos registrados pelo sistema durante a criação e o gerenciamento do acordo.
 
-Cada registro informa a **data e hora** da operação, além da descrição detalhada da ação executada, como:
+Cada registro apresenta a **data e hora** do evento e uma **descrição detalhada da operação realizada**, permitindo acompanhar as principais alterações relacionadas ao acordo, como:
 
 - 🤝 Criação do acordo;
-- 💰 Valores negociados;
+- 💰 Valores e condições negociadas;
 - 📉 Descontos aplicados;
-- 📅 Data de vencimento da primeira parcela;
-- 📄 Parcelas incluídas no acordo;
-- 🔄 Alterações de status das parcelas.
+- 📅 Vencimento da primeira parcela;
+- 📄 Parcelas vinculadas ao acordo;
+- 🔄 Alterações no status das parcelas.
 
-![acordos](../img/cobranca/historico.png)
+![acordos](../img/cobranca/historico-acordos.png)
 
 # 💰 Parcelas
 
-!image.png
+![acordos](../img/cobranca/parcelas.png)
 
 Esta seção permite consultar todas as parcelas vinculadas ao contrato, apresentando informações financeiras e o status de cada uma.
 
